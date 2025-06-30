@@ -1,0 +1,331 @@
+{
+  "tacticam_id_15": {
+    "tacticam_id": 15,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame100_id15.jpg",
+    "broadcast_id": 22,
+    "broadcast_path": "outputs\\cropped_players\\frame40_id22.jpg",
+    "cosine_distance": 0.08405625820159912
+  },
+  "tacticam_id_16": {
+    "tacticam_id": 16,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame101_id16.jpg",
+    "broadcast_id": 22,
+    "broadcast_path": "outputs\\cropped_players\\frame40_id22.jpg",
+    "cosine_distance": 0.10600972175598145
+  },
+  "tacticam_id_17": {
+    "tacticam_id": 17,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame102_id17.jpg",
+    "broadcast_id": 22,
+    "broadcast_path": "outputs\\cropped_players\\frame40_id22.jpg",
+    "cosine_distance": 0.10367375612258911
+  },
+  "tacticam_id_18": {
+    "tacticam_id": 18,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame103_id18.jpg",
+    "broadcast_id": 29,
+    "broadcast_path": "outputs\\cropped_players\\frame47_id29.jpg",
+    "cosine_distance": 0.09208881855010986
+  },
+  "tacticam_id_19": {
+    "tacticam_id": 19,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame104_id19.jpg",
+    "broadcast_id": 22,
+    "broadcast_path": "outputs\\cropped_players\\frame40_id22.jpg",
+    "cosine_distance": 0.10022330284118652
+  },
+  "tacticam_id_20": {
+    "tacticam_id": 20,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame105_id20.jpg",
+    "broadcast_id": 25,
+    "broadcast_path": "outputs\\cropped_players\\frame43_id25.jpg",
+    "cosine_distance": 0.23389828205108643
+  },
+  "tacticam_id_21": {
+    "tacticam_id": 21,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame106_id21.jpg",
+    "broadcast_id": 15,
+    "broadcast_path": "outputs\\cropped_players\\frame29_id15.jpg",
+    "cosine_distance": 0.11893057823181152
+  },
+  "tacticam_id_22": {
+    "tacticam_id": 22,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame108_id22.jpg",
+    "broadcast_id": 32,
+    "broadcast_path": "outputs\\cropped_players\\frame54_id32.jpg",
+    "cosine_distance": 0.09111595153808594
+  },
+  "tacticam_id_23": {
+    "tacticam_id": 23,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame109_id23.jpg",
+    "broadcast_id": 32,
+    "broadcast_path": "outputs\\cropped_players\\frame54_id32.jpg",
+    "cosine_distance": 0.0961294174194336
+  },
+  "tacticam_id_24": {
+    "tacticam_id": 24,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame112_id24.jpg",
+    "broadcast_id": 33,
+    "broadcast_path": "outputs\\cropped_players\\frame55_id33.jpg",
+    "cosine_distance": 0.06147027015686035
+  },
+  "tacticam_id_25": {
+    "tacticam_id": 25,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame114_id25.jpg",
+    "broadcast_id": 33,
+    "broadcast_path": "outputs\\cropped_players\\frame55_id33.jpg",
+    "cosine_distance": 0.0808643102645874
+  },
+  "tacticam_id_26": {
+    "tacticam_id": 26,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame115_id26.jpg",
+    "broadcast_id": 33,
+    "broadcast_path": "outputs\\cropped_players\\frame55_id33.jpg",
+    "cosine_distance": 0.10815733671188354
+  },
+  "tacticam_id_27": {
+    "tacticam_id": 27,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame116_id27.jpg",
+    "broadcast_id": 33,
+    "broadcast_path": "outputs\\cropped_players\\frame55_id33.jpg",
+    "cosine_distance": 0.10523080825805664
+  },
+  "tacticam_id_28": {
+    "tacticam_id": 28,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame119_id28.jpg",
+    "broadcast_id": 35,
+    "broadcast_path": "outputs\\cropped_players\\frame66_id35.jpg",
+    "cosine_distance": 0.11322999000549316
+  },
+  "tacticam_id_29": {
+    "tacticam_id": 29,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame122_id29.jpg",
+    "broadcast_id": 33,
+    "broadcast_path": "outputs\\cropped_players\\frame55_id33.jpg",
+    "cosine_distance": 0.10229438543319702
+  },
+  "tacticam_id_30": {
+    "tacticam_id": 30,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame127_id30.jpg",
+    "broadcast_id": 32,
+    "broadcast_path": "outputs\\cropped_players\\frame54_id32.jpg",
+    "cosine_distance": 0.09787005186080933
+  },
+  "tacticam_id_31": {
+    "tacticam_id": 31,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame128_id31.jpg",
+    "broadcast_id": 35,
+    "broadcast_path": "outputs\\cropped_players\\frame66_id35.jpg",
+    "cosine_distance": 0.0983424186706543
+  },
+  "tacticam_id_32": {
+    "tacticam_id": 32,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame131_id32.jpg",
+    "broadcast_id": 32,
+    "broadcast_path": "outputs\\cropped_players\\frame54_id32.jpg",
+    "cosine_distance": 0.14002037048339844
+  },
+  "tacticam_id_33": {
+    "tacticam_id": 33,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame132_id33.jpg",
+    "broadcast_id": 32,
+    "broadcast_path": "outputs\\cropped_players\\frame54_id32.jpg",
+    "cosine_distance": 0.0984494686126709
+  },
+  "tacticam_id_34": {
+    "tacticam_id": 34,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame133_id34.jpg",
+    "broadcast_id": 32,
+    "broadcast_path": "outputs\\cropped_players\\frame54_id32.jpg",
+    "cosine_distance": 0.10178858041763306
+  },
+  "tacticam_id_35": {
+    "tacticam_id": 35,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame135_id35.jpg",
+    "broadcast_id": 16,
+    "broadcast_path": "outputs\\cropped_players\\frame30_id16.jpg",
+    "cosine_distance": 0.1351628303527832
+  },
+  "tacticam_id_36": {
+    "tacticam_id": 36,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame136_id36.jpg",
+    "broadcast_id": 21,
+    "broadcast_path": "outputs\\cropped_players\\frame35_id21.jpg",
+    "cosine_distance": 0.11316853761672974
+  },
+  "tacticam_id_37": {
+    "tacticam_id": 37,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame137_id37.jpg",
+    "broadcast_id": 21,
+    "broadcast_path": "outputs\\cropped_players\\frame35_id21.jpg",
+    "cosine_distance": 0.10396873950958252
+  },
+  "tacticam_id_38": {
+    "tacticam_id": 38,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame138_id38.jpg",
+    "broadcast_id": 33,
+    "broadcast_path": "outputs\\cropped_players\\frame55_id33.jpg",
+    "cosine_distance": 0.12238109111785889
+  },
+  "tacticam_id_39": {
+    "tacticam_id": 39,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame146_id39.jpg",
+    "broadcast_id": 35,
+    "broadcast_path": "outputs\\cropped_players\\frame66_id35.jpg",
+    "cosine_distance": 0.13421028852462769
+  },
+  "tacticam_id_40": {
+    "tacticam_id": 40,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame147_id40.jpg",
+    "broadcast_id": 35,
+    "broadcast_path": "outputs\\cropped_players\\frame66_id35.jpg",
+    "cosine_distance": 0.13536089658737183
+  },
+  "tacticam_id_41": {
+    "tacticam_id": 41,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame195_id41.jpg",
+    "broadcast_id": 25,
+    "broadcast_path": "outputs\\cropped_players\\frame43_id25.jpg",
+    "cosine_distance": 0.20839422941207886
+  },
+  "tacticam_id_42": {
+    "tacticam_id": 42,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame196_id42.jpg",
+    "broadcast_id": 25,
+    "broadcast_path": "outputs\\cropped_players\\frame43_id25.jpg",
+    "cosine_distance": 0.2351866364479065
+  },
+  "tacticam_id_43": {
+    "tacticam_id": 43,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame197_id43.jpg",
+    "broadcast_id": 35,
+    "broadcast_path": "outputs\\cropped_players\\frame66_id35.jpg",
+    "cosine_distance": 0.21783816814422607
+  },
+  "tacticam_id_44": {
+    "tacticam_id": 44,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame198_id44.jpg",
+    "broadcast_id": 21,
+    "broadcast_path": "outputs\\cropped_players\\frame35_id21.jpg",
+    "cosine_distance": 0.19362634420394897
+  },
+  "tacticam_id_45": {
+    "tacticam_id": 45,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame199_id45.jpg",
+    "broadcast_id": 21,
+    "broadcast_path": "outputs\\cropped_players\\frame35_id21.jpg",
+    "cosine_distance": 0.215509831905365
+  },
+  "tacticam_id_46": {
+    "tacticam_id": 46,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame200_id46.jpg",
+    "broadcast_id": 35,
+    "broadcast_path": "outputs\\cropped_players\\frame66_id35.jpg",
+    "cosine_distance": 0.19365960359573364
+  },
+  "tacticam_id_0": {
+    "tacticam_id": 0,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame77_id0.jpg",
+    "broadcast_id": 7,
+    "broadcast_path": "outputs\\cropped_players\\frame16_id7.jpg",
+    "cosine_distance": 0.11119943857192993
+  },
+  "tacticam_id_1": {
+    "tacticam_id": 1,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame83_id1.jpg",
+    "broadcast_id": 15,
+    "broadcast_path": "outputs\\cropped_players\\frame29_id15.jpg",
+    "cosine_distance": 0.12019729614257812
+  },
+  "tacticam_id_2": {
+    "tacticam_id": 2,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame84_id2.jpg",
+    "broadcast_id": 24,
+    "broadcast_path": "outputs\\cropped_players\\frame42_id24.jpg",
+    "cosine_distance": 0.15179836750030518
+  },
+  "tacticam_id_3": {
+    "tacticam_id": 3,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame85_id3.jpg",
+    "broadcast_id": 15,
+    "broadcast_path": "outputs\\cropped_players\\frame29_id15.jpg",
+    "cosine_distance": 0.12945735454559326
+  },
+  "tacticam_id_4": {
+    "tacticam_id": 4,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame87_id4.jpg",
+    "broadcast_id": 15,
+    "broadcast_path": "outputs\\cropped_players\\frame29_id15.jpg",
+    "cosine_distance": 0.09325885772705078
+  },
+  "tacticam_id_5": {
+    "tacticam_id": 5,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame88_id5.jpg",
+    "broadcast_id": 25,
+    "broadcast_path": "outputs\\cropped_players\\frame43_id25.jpg",
+    "cosine_distance": 0.1328679323196411
+  },
+  "tacticam_id_6": {
+    "tacticam_id": 6,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame89_id6.jpg",
+    "broadcast_id": 15,
+    "broadcast_path": "outputs\\cropped_players\\frame29_id15.jpg",
+    "cosine_distance": 0.08836901187896729
+  },
+  "tacticam_id_7": {
+    "tacticam_id": 7,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame90_id7.jpg",
+    "broadcast_id": 15,
+    "broadcast_path": "outputs\\cropped_players\\frame29_id15.jpg",
+    "cosine_distance": 0.11666464805603027
+  },
+  "tacticam_id_8": {
+    "tacticam_id": 8,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame91_id8.jpg",
+    "broadcast_id": 15,
+    "broadcast_path": "outputs\\cropped_players\\frame29_id15.jpg",
+    "cosine_distance": 0.11443090438842773
+  },
+  "tacticam_id_9": {
+    "tacticam_id": 9,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame92_id9.jpg",
+    "broadcast_id": 16,
+    "broadcast_path": "outputs\\cropped_players\\frame30_id16.jpg",
+    "cosine_distance": 0.10215866565704346
+  },
+  "tacticam_id_10": {
+    "tacticam_id": 10,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame93_id10.jpg",
+    "broadcast_id": 13,
+    "broadcast_path": "outputs\\cropped_players\\frame23_id13.jpg",
+    "cosine_distance": 0.09842455387115479
+  },
+  "tacticam_id_11": {
+    "tacticam_id": 11,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame95_id11.jpg",
+    "broadcast_id": 16,
+    "broadcast_path": "outputs\\cropped_players\\frame30_id16.jpg",
+    "cosine_distance": 0.09961265325546265
+  },
+  "tacticam_id_12": {
+    "tacticam_id": 12,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame96_id12.jpg",
+    "broadcast_id": 7,
+    "broadcast_path": "outputs\\cropped_players\\frame16_id7.jpg",
+    "cosine_distance": 0.08856582641601562
+  },
+  "tacticam_id_13": {
+    "tacticam_id": 13,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame97_id13.jpg",
+    "broadcast_id": 7,
+    "broadcast_path": "outputs\\cropped_players\\frame16_id7.jpg",
+    "cosine_distance": 0.06453520059585571
+  },
+  "tacticam_id_14": {
+    "tacticam_id": 14,
+    "tacticam_path": "outputs\\tacticam_cropped_players\\frame98_id14.jpg",
+    "broadcast_id": 22,
+    "broadcast_path": "outputs\\cropped_players\\frame40_id22.jpg",
+    "cosine_distance": 0.07541322708129883
+  }
+}
